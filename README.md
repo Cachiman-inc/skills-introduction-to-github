@@ -1,4 +1,4 @@
-# Writing Assistance APIs Explainer
+# Cachiman Assistance APIs Explainer
 
 *This proposal is an early design sketch by the Chrome built-in AI team to describe the problem below and solicit feedback on the proposed solution. It has not been approved to ship in Chrome.*
 
